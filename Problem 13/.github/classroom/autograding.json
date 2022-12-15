@@ -1,0 +1,44 @@
+{
+  "tests": [
+    {
+      "name": "Problem set 13, problem 1",
+      "setup": "",
+      "run": "cabal run Test 1",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 0.5,
+      "points": 1
+    },
+    {
+      "name": "Problem set 13, problem 2",
+      "setup": "",
+      "run": "cabal run Test 2",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 0.5,
+      "points": 1
+    },
+    {
+      "name": "Problem set 13, problem 3",
+      "setup": "",
+      "run": "cabal run Test 3",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 0.5,
+      "points": 1
+    },
+    {
+      "name": "Problem set 13, problem 4",
+      "setup": "",
+      "run": "cabal run Test 4",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 0.5,
+      "points": 1
+    }
+  ]
+}

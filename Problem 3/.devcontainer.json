@@ -1,0 +1,9 @@
+{
+    "name" : "CS:3820F21 PS3",
+    "image" : "docker.io/jgbm/cs3820:2022-08-11",
+    "extensions" : ["haskell.haskell", "eamodio.gitlens"],
+    "workspaceMount": "source=${localWorkspaceFolder},target=/home/vscode/ps3,type=bind,consistency=delegated",
+    "workspaceFolder": "/home/vscode/ps3",
+
+    "remoteUser": "vscode"
+}

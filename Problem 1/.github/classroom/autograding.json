@@ -1,0 +1,164 @@
+{
+  "tests": [
+    {
+      "name": "Problem Set 1, Problem 1",
+      "setup": "",
+      "run": "cabal run Test 1",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 0.5,
+      "points": 1
+    },
+    {
+      "name": "Problem Set 1, Problem 2",
+      "setup": "",
+      "run": "cabal run Test 2",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 0.5,
+      "points": 1
+    },
+    {
+      "name": "Problem Set 1, Problem 3",
+      "setup": "",
+      "run": "cabal run Test 3",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 0.5,
+      "points": 1
+    },
+    {
+      "name": "Problem Set 1, Problem 4",
+      "setup": "",
+      "run": "cabal run Test 4",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 0.5,
+      "points": 1
+    },
+    {
+      "name": "Problem Set 1, Problem 5",
+      "setup": "",
+      "run": "cabal run Test 5",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 0.5,
+      "points": 1
+    },
+    {
+      "name": "Problem Set 1, Problem 6",
+      "setup": "",
+      "run": "cabal run Test 6",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 0.5,
+      "points": 1
+    },
+    {
+      "name": "Problem Set 1, Problem 7",
+      "setup": "",
+      "run": "cabal run Test 7",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 0.5,
+      "points": 1
+    },
+    {
+      "name": "Problem Set 1, Problem 8",
+      "setup": "",
+      "run": "cabal run Test 8",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 0.5,
+      "points": 1
+    },
+    {
+      "name": "Problem Set 1, Problem 9",
+      "setup": "",
+      "run": "cabal run Test 9",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 0.5,
+      "points": 1
+    },
+    {
+      "name": "Problem Set 1, Problem 10",
+      "setup": "",
+      "run": "cabal run Test 10",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 0.5,
+      "points": 1
+    },
+    {
+      "name": "Problem Set 1, Problem 11",
+      "setup": "",
+      "run": "cabal run Test 11",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 0.5,
+      "points": 1
+    },
+    {
+      "name": "Problem Set 1, Problem 12",
+      "setup": "",
+      "run": "cabal run Test 12",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 0.5,
+      "points": 1
+    },
+    {
+      "name": "Problem Set 1, Problem 13",
+      "setup": "",
+      "run": "cabal run Test 13",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 0.5,
+      "points": 1
+    },
+    {
+      "name": "Problem Set 1, Problem 14",
+      "setup": "",
+      "run": "cabal run Test 14",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 0.5,
+      "points": 1
+    },
+    {
+      "name": "Problem Set 1, Problem 15",
+      "setup": "",
+      "run": "cabal run Test 15",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 0.5,
+      "points": 1
+    },
+    {
+      "name": "Problem Set 1, Problem 16",
+      "setup": "",
+      "run": "cabal run Test 16",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 0.5,
+      "points": 1
+    }
+  ]
+}
